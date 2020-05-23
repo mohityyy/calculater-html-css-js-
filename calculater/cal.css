@@ -1,0 +1,54 @@
+body{
+    background-image: url(ww.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.top{
+    margin: 0 auto;
+    background-color: lightblue;
+    height: 390px;
+    text-align: center;
+    width: 300px;
+    border-radius: 50px;
+    
+
+}
+#i1{
+    margin: 20px;
+    padding: 3px;
+    border-radius: 10px;
+    
+}
+#i2{
+    margin: 20px;
+    padding: 3px;
+    border-radius: 10px;
+}
+.mid{
+    
+    
+    text-align: center;
+    
+}
+#s{
+    background-color: turquoise;
+    border-radius: 50px;
+    border-color: teal;
+}
+#b1{
+    background-color: turquoise;
+    border-radius: 50px;
+    border-color: teal;
+}
+#b1:hover{
+    background-color: teal;
+}
+#b2{
+    background-color: turquoise;
+    border-radius: 50px;
+    border-color: teal;
+
+}
+#b2:hover{
+    background-color: teal;
+}
